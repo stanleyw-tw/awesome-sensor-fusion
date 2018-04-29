@@ -10,6 +10,8 @@ A curated list of awesome sensor fusion resources
 - [Sensor Fusion](#sensor-fusion)
 
 ## Sensor Basic
+- Sensor Technologies: Healthcare, Wellness, and Environmental Applications [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6014-1.pdf)
+  -Michael J. McGrath and Clliodhna Ni Scanaill
 
 ## Sensor Fusion
 - Distributed Kalman filtering for sensor networks [[pdf]](http://ieeexplore.ieee.org/abstract/document/4434303/)
