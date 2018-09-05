@@ -1,6 +1,4 @@
-# awesome-sensor-fusion
-
-# Awesome Sensor Search [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Sensor Fusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome sensor fusion resources
 
