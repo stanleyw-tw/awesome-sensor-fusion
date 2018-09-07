@@ -1,5 +1,4 @@
-# Awesome Sensor Fusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+# Awesome Sensor Fusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/stanleyw-tw/awesome-sensor-fusion.svg?branch=master)](https://travis-ci.org/stanleyw-tw/awesome-sensor-fusion)
 A curated list of awesome sensor fusion resources
 
 
