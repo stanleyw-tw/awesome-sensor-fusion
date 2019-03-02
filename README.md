@@ -8,11 +8,20 @@ A curated list of awesome sensor fusion resources
 
 ## Sensor Basic
 - Sensor Technologies: Healthcare, Wellness, and Environmental Applications [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6014-1.pdf)
-  -Michael J. McGrath and Clliodhna Ni Scanaill
-
-## Sensor Fusion
+  - Michael J. McGrath and Clliodhna Ni Scanaill
 - Distributed Kalman filtering for sensor networks [[pdf]](http://ieeexplore.ieee.org/abstract/document/4434303/)
   - R. Olfati-Saber *CDC'07*
+## Sensor Fusion
+##### Lidar SLAM
+- Elastic LiDAR Fusion: Dense Map-Centric Continuous-Time SLAM [[pdf]](https://arxiv.org/abs/1711.01691)
+   -  Chanoh Park, Peyman Moghadam, Soohwan Kim, Alberto Elfes, Clinton Fookes, Sridha Sridharan, ICRA, 2018
+
+##### VO
+- PIRVS: An Advanced Visual-Inertial SLAM System with Flexible Sensor Fusion and Hardware Co-Design [[pdf]](https://arxiv.org/abs/1710.00893)
+   - Zhe Zhang, Shaoshan Liu, Grace Tsai, Hongbing Hu, Chen-Chi Chu, Feng Zheng, ICRA, 2018
+
+- On the Fusion of RGB and Depth Information For Hand Pose Estimation. [[pdf]](https://ieeexplore.ieee.org/document/8451022/) [[code]](https://github.com/ekazakos/fusenet-hand-pose)
+  - Evangelos Kazakos, Christophoros Nikou, Ioannis Kakadiaris
 
 ## Contributing
 Please help contribute this list by contacting [me](https://stanleyw-tw.github.io/) or add [pull request](https://github.com/stanleyw-tw/awesome-sensor-fusion/pulls)
