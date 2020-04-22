@@ -24,7 +24,7 @@ A curated list of awesome sensor fusion resources
   - Evangelos Kazakos, Christophoros Nikou, Ioannis Kakadiaris
 
 ## Contributing
-Please help contribute this list by contacting [me](https://stanleyw-tw.github.io/) or add [pull request](https://github.com/stanleyw-tw/awesome-sensor-fusion/pulls)
+Please help contribute this list by contacting [me](mailto:chengwu.tw@gmail.com) or add [pull request](https://github.com/stanleyw-tw/awesome-sensor-fusion/pulls)
 
 Markdown format:
 ```markdown
