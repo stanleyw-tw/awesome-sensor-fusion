@@ -7,6 +7,7 @@ A curated list of awesome sensor fusion resources
 - [Sensor Fusion](#sensor-fusion)
 
 ## Sensor Basic
+- OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving [[pdf]](https://arxiv.org/pdf/2205.14087)
 - Sensor Technologies: Healthcare, Wellness, and Environmental Applications [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-1-4302-6014-1.pdf)
   - Michael J. McGrath and Clliodhna Ni Scanaill
 - Distributed Kalman filtering for sensor networks [[pdf]](http://ieeexplore.ieee.org/abstract/document/4434303/)
