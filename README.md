@@ -14,7 +14,7 @@ A curated list of awesome sensor fusion resources
   - R. Olfati-Saber *CDC'07*
 ## Sensor Fusion
 ##### Machine Learning
-- TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving [[pdf]] (https://arxiv.org/abs/2205.15997) [[code]] (https://github.com/autonomousvision/transfuser)
+- TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving [[pdf]](https://arxiv.org/abs/2205.15997) [[code]](https://github.com/autonomousvision/transfuser)
    -  Kashyap Chitta, Aditya Prakash, Bernhard Jaeger, Zehao Yu, Katrin Renz, Andreas Geiger, PAMI, 2022
 ##### Lidar Simultaneous Localization and Mapping (SLAM)
 - Elastic LiDAR Fusion: Dense Map-Centric Continuous-Time SLAM [[pdf]](https://arxiv.org/abs/1711.01691)
