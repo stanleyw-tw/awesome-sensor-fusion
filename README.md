@@ -13,11 +13,14 @@ A curated list of awesome sensor fusion resources
 - Distributed Kalman filtering for sensor networks [[pdf]](http://ieeexplore.ieee.org/abstract/document/4434303/)
   - R. Olfati-Saber *CDC'07*
 ## Sensor Fusion
-##### Lidar SLAM
+##### Machine Learning
+- TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving [[pdf]] (https://arxiv.org/abs/2205.15997) [[code]] (https://github.com/autonomousvision/transfuser)
+   -  Kashyap Chitta, Aditya Prakash, Bernhard Jaeger, Zehao Yu, Katrin Renz, Andreas Geiger, PAMI, 2022
+##### Lidar Simultaneous Localization and Mapping (SLAM)
 - Elastic LiDAR Fusion: Dense Map-Centric Continuous-Time SLAM [[pdf]](https://arxiv.org/abs/1711.01691)
    -  Chanoh Park, Peyman Moghadam, Soohwan Kim, Alberto Elfes, Clinton Fookes, Sridha Sridharan, ICRA, 2018
 
-##### VO
+##### Visual Odometry (VO)
 - PIRVS: An Advanced Visual-Inertial SLAM System with Flexible Sensor Fusion and Hardware Co-Design [[pdf]](https://arxiv.org/abs/1710.00893)
    - Zhe Zhang, Shaoshan Liu, Grace Tsai, Hongbing Hu, Chen-Chi Chu, Feng Zheng, ICRA, 2018
 
